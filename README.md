@@ -1,5 +1,5 @@
 # nyandb
-Try to bulding a simple database with Go.
+Try to building a simple database with Go.
 
 Reference : 
 https://cstack.github.io/db_tutorial/
