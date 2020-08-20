@@ -10,7 +10,6 @@ import (
 )
 
 func main() {
-
 	l, err := readline.NewEx(&readline.Config{
 		Prompt:          "# ",
 		HistoryFile:     "/tmp/gosql.tmp",
